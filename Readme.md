@@ -1,4 +1,4 @@
-# Diachronic measures of within language entropy
+# Diachronic measures of language entropy
 
 Data
 ----
