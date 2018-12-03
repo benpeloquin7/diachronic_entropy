@@ -1,0 +1,9 @@
+
+# Notebooks
+.Rhistory
+.Rproj.user/
+notebooks/.ipynb_checkpoints
+diachronic_entropy.Rproj
+
+# Data
+data/
