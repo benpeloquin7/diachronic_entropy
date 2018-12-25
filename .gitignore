@@ -4,6 +4,12 @@
 .Rproj.user/
 notebooks/.ipynb_checkpoints
 diachronic_entropy.Rproj
+*.ipynb
+*.Rmd
+.idea/
 
 # Data
 data/
+*.txt
+*.csv
+*.tsv
